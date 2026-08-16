@@ -4,3 +4,4 @@ seaborn
 SQLAlchemy
 pymysql
 dotenv
+prophet
